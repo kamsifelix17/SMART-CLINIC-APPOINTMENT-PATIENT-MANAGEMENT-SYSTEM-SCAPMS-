@@ -1,0 +1,3 @@
+--- SCAPMS Database Export ---
+ID: 100 | Name: Adaora Neenwobi | Age: 56
+ID: 200 | Name: Kamsi Felix | Age: 24

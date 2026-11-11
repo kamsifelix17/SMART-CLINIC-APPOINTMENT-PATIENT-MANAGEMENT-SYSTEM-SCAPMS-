@@ -1,0 +1,5 @@
+C:/Users/DELL/Project_Setup/build/CMakeFiles/SCAPMS.dir
+C:/Users/DELL/Project_Setup/build/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Project_Setup/build/CMakeFiles/rebuild_cache.dir
+C:/Users/DELL/Project_Setup/build/CMakeFiles/SCAPMS_autogen_timestamp_deps.dir
+C:/Users/DELL/Project_Setup/build/CMakeFiles/SCAPMS_autogen.dir

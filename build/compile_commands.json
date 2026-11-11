@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/DELL/Project_Setup/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SCAPMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SCAPMS.dir\\SCAPMS_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\DELL\\Project_Setup\\build\\SCAPMS_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/DELL/Project_Setup/build/SCAPMS_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/SCAPMS.dir/SCAPMS_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/Project_Setup/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SCAPMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SCAPMS.dir\\main.cpp.obj -c C:\\Users\\DELL\\Project_Setup\\main.cpp",
+  "file": "C:/Users/DELL/Project_Setup/main.cpp",
+  "output": "CMakeFiles/SCAPMS.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/Project_Setup/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SCAPMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SCAPMS.dir\\ClinicDatabase.cpp.obj -c C:\\Users\\DELL\\Project_Setup\\ClinicDatabase.cpp",
+  "file": "C:/Users/DELL/Project_Setup/ClinicDatabase.cpp",
+  "output": "CMakeFiles/SCAPMS.dir/ClinicDatabase.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/Project_Setup/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SCAPMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SCAPMS.dir\\PatientRecord.cpp.obj -c C:\\Users\\DELL\\Project_Setup\\PatientRecord.cpp",
+  "file": "C:/Users/DELL/Project_Setup/PatientRecord.cpp",
+  "output": "CMakeFiles/SCAPMS.dir/PatientRecord.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/Project_Setup/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SCAPMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SCAPMS.dir\\GeneralPatient.cpp.obj -c C:\\Users\\DELL\\Project_Setup\\GeneralPatient.cpp",
+  "file": "C:/Users/DELL/Project_Setup/GeneralPatient.cpp",
+  "output": "CMakeFiles/SCAPMS.dir/GeneralPatient.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/Project_Setup/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SCAPMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SCAPMS.dir\\EmergencyPatient.cpp.obj -c C:\\Users\\DELL\\Project_Setup\\EmergencyPatient.cpp",
+  "file": "C:/Users/DELL/Project_Setup/EmergencyPatient.cpp",
+  "output": "CMakeFiles/SCAPMS.dir/EmergencyPatient.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/Project_Setup/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SCAPMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SCAPMS.dir\\FollowUpPatient.cpp.obj -c C:\\Users\\DELL\\Project_Setup\\FollowUpPatient.cpp",
+  "file": "C:/Users/DELL/Project_Setup/FollowUpPatient.cpp",
+  "output": "CMakeFiles/SCAPMS.dir/FollowUpPatient.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/Project_Setup/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SCAPMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SCAPMS.dir\\controller\\SearchEngine.cpp.obj -c C:\\Users\\DELL\\Project_Setup\\controller\\SearchEngine.cpp",
+  "file": "C:/Users/DELL/Project_Setup/controller/SearchEngine.cpp",
+  "output": "CMakeFiles/SCAPMS.dir/controller/SearchEngine.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/Project_Setup/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SCAPMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SCAPMS.dir\\controller\\SortEngine.cpp.obj -c C:\\Users\\DELL\\Project_Setup\\controller\\SortEngine.cpp",
+  "file": "C:/Users/DELL/Project_Setup/controller/SortEngine.cpp",
+  "output": "CMakeFiles/SCAPMS.dir/controller/SortEngine.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/Project_Setup/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SCAPMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SCAPMS.dir\\controller\\gui\\MainWindow.cpp.obj -c C:\\Users\\DELL\\Project_Setup\\controller\\gui\\MainWindow.cpp",
+  "file": "C:/Users/DELL/Project_Setup/controller/gui/MainWindow.cpp",
+  "output": "CMakeFiles/SCAPMS.dir/controller/gui/MainWindow.cpp.obj"
+}
+]
